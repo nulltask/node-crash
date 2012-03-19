@@ -6,11 +6,16 @@
 , "keywords": ["crash", "evil"]
 , "repository": "git://github.com/nulltask/node-crash.git"
 , "main": "index"
+, "devDependencies": {
+    "mocha": "*"
+  , "should": "*"
+  }
 , "engines": {
     "node": "0.6"
   }
 , "scripts": {
     "preinstall": "node-waf configure build"
+  , "test": "mocha"
   }
 }
 
