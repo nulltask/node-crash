@@ -6,6 +6,9 @@
 , "keywords": ["crash", "evil"]
 , "repository": "git://github.com/nulltask/node-crash.git"
 , "main": "index"
+, "bin": {
+    "crash": "./bin/crash"
+  }
 , "devDependencies": {
     "mocha": "*"
   , "should": "*"

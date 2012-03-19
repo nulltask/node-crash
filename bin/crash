@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var crash = require(__dirname + '/../');
+
+/**
+ * Fire!
+ */
+
+crash.crash();
+
