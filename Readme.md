@@ -18,14 +18,14 @@
                                                                                                              :"     
 ```
 
-__node-crash__ crashes node platform intentionally. __Only for experimental purposes__.
+__node-crash__ crashes node platform intentionally. __Only for experimental purposes__. DO NOT EVIL.
 
 
 ## Installation
 
 npm:
 
-    $ npm install https://github.com/nulltask/node-crash/tarball/master
+    $ npm install crash
 
 ## Usage
 
