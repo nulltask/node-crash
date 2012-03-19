@@ -29,13 +29,17 @@ npm:
 
 ## Usage
 
-Example:
+JavaScript Example:
 
 ```js
 var crash = require('crash');
 
 crash.crash();  // crash occured!
 ```
+
+Command line example:
+
+    $ crash
 
 ## License
 
