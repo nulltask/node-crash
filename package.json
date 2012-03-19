@@ -1,7 +1,7 @@
 {
   "name": "crash"
 , "description": "node-crash causes crash node platform intentionally. Only for experimental purposes."
-, "version": "0.0.3"
+, "version": "1.0.0"
 , "author": "Seiya Konno <nulltask@gmail.com>"
 , "keywords": ["crash", "evil"]
 , "repository": "git://github.com/nulltask/node-crash.git"
