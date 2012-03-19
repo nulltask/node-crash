@@ -6,7 +6,7 @@ using namespace v8;
 Handle<Value>
 Method(const Arguments& args) {
   HandleScope scope;
-  delete 0xffffffff;
+  delete (int*)0xffffffff;
   return scope.Close(String::New("Unreachable!"));
 }
 
