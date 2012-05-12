@@ -1,4 +1,10 @@
 
+2.0.1 / 2012-05-12 
+==================
+
+  * Manually calling node-gyp is not needed anymore with recent npm [japi]
+  * Requires npm >= 1.1.21
+
 2.0.0 / 2012-03-25 
 ==================
 
