@@ -7,6 +7,7 @@ Handle<Value>
 Method(const Arguments& args) {
   HandleScope scope;
   delete (int*)0xffffffff;
+  throw "Crash!";
   return scope.Close(String::New("Unreachable!"));
 }
 
