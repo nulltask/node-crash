@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nulltask/node-crash.png)](http://travis-ci.org/nulltask/node-crash)
 # node-crash
 
 ```
