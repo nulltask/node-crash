@@ -1,8 +1,12 @@
 {
   "name": "crash"
 , "description": "node-crash causes crash node platform intentionally. Only for experimental purposes."
-, "version": "2.0.2"
+, "version": "2.0.3"
 , "author": "Seiya Konno <nulltask@gmail.com>"
+, "contributors": {
+    { "name": "John Weis", "web": "http://johnweis.com/" }
+  , { "name": "Jeroen Janssen" }
+  }
 , "keywords": ["crash", "evil"]
 , "repository": "git://github.com/nulltask/node-crash.git"
 , "main": "index"
